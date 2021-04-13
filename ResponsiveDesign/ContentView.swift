@@ -13,6 +13,7 @@ struct ContentView: View {
             Header()
             Search()
             Progress()
+            Card()
             Tapbar()
         }
     }
